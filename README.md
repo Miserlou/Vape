@@ -13,7 +13,9 @@ Might also be useful for getting around text filters, who knows.
     $ vape I want to be AESTHETIC
     Ｉ　ｗａｎｔ　ｔｏ　ｂｅ　ＡＥＳＴＨＥＴＩＣ
 
-You can also copy the result to the clipboard with `-c`.
+You can copy the result to the clipboard with `-c`.
+
+You can also force upper case text with `-u`. 
 
 And that's all it does!
 
