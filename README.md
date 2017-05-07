@@ -2,11 +2,13 @@
 
 A command-line aesthetic text generator. Perfect for your new Vaporwave band.
 
-# Installation
+Might also be useful for getting around text filters, who knows.
+
+## Ｉｎｓｔａｌｌａｔｉｏｎ 
 
     $ pip install vape
 
-# Usage
+## Ｕｓａｇｅ 
 
     $ vape I want to be AESTHETIC
     Ｉ　ｗａｎｔ　ｔｏ　ｂｅ　ＡＥＳＴＨＥＴＩＣ
