@@ -1,6 +1,6 @@
 # Ｖ　Ａ　Ｐ　Ｅ
 
-A command-line aesthetic text generator.
+A command-line aesthetic text generator. Perfect for your new Vaporwave band.
 
 # Installation
 
