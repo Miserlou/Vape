@@ -20,7 +20,9 @@ You can also force upper case text with `-u`.
 And that's all it does!
 
 ## See Also
+
 * [Emo](https://github.com/Miserlou/Emo)
+* [Trapify](https://github.com/Miserlou/Trapify)
 * [Zalgo](https://github.com/Miserlou/Zalgo)
 
 Ｒｉｃｈ　Ｊｏｎｅｓ　２０１７
